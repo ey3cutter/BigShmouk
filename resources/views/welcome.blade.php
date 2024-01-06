@@ -15,7 +15,7 @@
 
 </head>
 <body data-spy="scroll" data-target=".navbar" data-offset="40" id="home">
-    
+
     <!-- Page Navigation -->
     <nav class="navbar custom-navbar navbar-expand-lg navbar-dark" data-spy="affix" data-offset-top="20">
         <div class="container">
@@ -69,8 +69,8 @@
             <div class="buttons text-center">
                 <a href="#service" class="btn btn-primary rounded w-lg btn-lg my-1">Наш сервис</a>
                 <a href="#contact" class="btn btn-outline-light rounded w-lg btn-lg my-1">Свяжитесь с нами</a>
-            </div>              
-        </div>      
+            </div>
+        </div>
     </header>
     <!-- End Of Page Header -->
 
@@ -144,7 +144,7 @@
     <section id="service">
         <div class="container">
             <h6 class="section-subtitle text-center">Что конкретно мы делаем?</h6>
-            <h5 class="section-title text-center mb-6">Наши услуги</h5> 
+            <h5 class="section-title text-center mb-6">Наши услуги</h5>
             <div class="row">
                 <div class="col-sm-4 col-md-3">
                     <div class="card mb-4">
@@ -219,7 +219,7 @@
                     </div>
                 </div>
 
-            </div>  
+            </div>
         </div>
     </section>
     <!-- End of Service Section -->
@@ -237,7 +237,7 @@
                             <div class="overlay-infos">
                                 <h5>Playboi Carti - Whole Lotta Red</h5>
                                 <a href="https://www.youtube.com/watch?v=kmDXoHulZHs"><i class="ti-link"></i></a>
-                            </div>  
+                            </div>
                         </div>
                     </div>
                     <div class="img-wrapper">
@@ -246,9 +246,9 @@
                             <div class="overlay-infos">
                                 <h5>Big Baby Tape, Kizaru - BANDANA</h5>
                                 <a href="https://www.youtube.com/watch?v=jy9sRIYzkO0"><i class="ti-link"></i></a>
-                            </div>                              
+                            </div>
                         </div>
-                    </div>                  
+                    </div>
                 </div>
                 <div class="col-sm-4">
                     <div class="img-wrapper">
@@ -257,7 +257,7 @@
                             <div class="overlay-infos">
                                 <h5>Friendly Thug 52 NGG - Cristoforo Colombo</h5>
                                 <a href="https://www.youtube.com/watch?v=IoqpB8szkv0&t=1028s"><i class="ti-link"></i></a>
-                            </div>  
+                            </div>
                         </div>
                     </div>
                     <div class="img-wrapper">
@@ -266,9 +266,9 @@
                             <div class="overlay-infos">
                                 <h5>Yanix - G.O.A.T.uslugi</h5>
                                 <a href="https://www.youtube.com/watch?v=REM9gnrrxeY"><i class="ti-link"></i></a>
-                            </div>                              
+                            </div>
                         </div>
-                    </div>                  
+                    </div>
                 </div>
                 <div class="col-sm-4">
                     <div class="img-wrapper">
@@ -277,7 +277,7 @@
                             <div class="overlay-infos">
                                 <h5>Drake - Scorpion</h5>
                                 <a href="https://www.youtube.com/watch?v=VtEBRE9ul90&list=PLFAcddgaFN8y1SrYofJmEIDWnXLbcrxoH"><i class="ti-link"></i></a>
-                            </div>  
+                            </div>
                         </div>
                     </div>
                     <div class="img-wrapper">
@@ -286,9 +286,9 @@
                             <div class="overlay-infos">
                                 <h5>Artik & Asti - Все хиты</h5>
                                 <a href="https://www.youtube.com/watch?v=O4fdeq4V3-w"><i class="ti-link"></i></a>
-                            </div>                              
+                            </div>
                         </div>
-                    </div>                  
+                    </div>
                 </div>
             </div>
         </div>
@@ -442,7 +442,7 @@
                 <div class="col-md-6">
                     <div class="testimonial-wrapper">
                         <div class="img-holder">
-                            <img src="assets/imgs/avatar-6.jpg">                     
+                            <img src="assets/imgs/avatar-6.jpg">
                         </div>
                         <div class="body">
                             <p class="subtitle">После концерта в ЕКБ, мне нужно было дозаписать эксклюзивный новый трек с моего предстоящего альбома. Чуваки решили мой вопрос очень быстро и самое главное - качественно!</p>
@@ -453,7 +453,7 @@
                 <div class="col-md-6">
                     <div class="testimonial-wrapper">
                         <div class="img-holder">
-                            <img src="assets/imgs/avatar-7.jpg">                     
+                            <img src="assets/imgs/avatar-7.jpg">
                         </div>
                         <div class="body">
                             <p class="subtitle">Просто GOAT студия звукозаписи в городе Екатеринбург! Чуваки - профессионалы своего дела, так что им можно довериться</p>
@@ -490,7 +490,7 @@
     </div>
     <!-- end of modal -->
 
-    
+
     <!-- Contact Section -->
     <section id="contact">
         <div class="container">
@@ -504,14 +504,14 @@
                         <div class="">
                             <h5>Местоположение</h5>
                             <p> Свердовская обл, г Екатеринбург, ул Маршалла Жукова, д 42</p>
-                        </div>                          
+                        </div>
                     </div>
                     <div class="item">
                         <i class="ti-mobile"></i>
                         <div>
                             <h5>Номер телефона</h5>
                             <p>(800) 555-3535</p>
-                        </div>                          
+                        </div>
                     </div>
                     <div class="item">
                         <i class="ti-email"></i>
@@ -559,10 +559,10 @@
                                 <img src="assets/imgs/logo.png">
                                 <h6>BIG SHMOUK RECORDS</h6>
                             </a>
-                            <p>Создай свой лучший трек с лучшей командой. Присоединяйся!</p> 
+                            <p>Создай свой лучший трек с лучшей командой. Присоединяйся!</p>
                             <p class="mt-3">
                                 Copyright <script>document.write(new Date().getFullYear())</script> &copy; <a class="d-inline text-primary" href="http://www.vk.com/ey3cutter">BIG SHMOUK RECORDS</a>
-                            </p>                   
+                            </p>
                         </li>
                     </ul>
                     <ul class="list">
@@ -578,7 +578,7 @@
                                 </div>
                                 <div class="col">
                                     <a href="#testmonail">Отзывы</a>
-                                    <a href="#team">Команда</a>                  
+                                    <a href="#team">Команда</a>
                                 </div>
                             </div>
                         </li>
@@ -600,7 +600,7 @@
                         </li>
                     </ul>
                 </div>
-            </div>    
+            </div>
         </div>
     </section>
 
